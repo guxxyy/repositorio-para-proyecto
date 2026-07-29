@@ -1,0 +1,6 @@
+@BilleteraCriptomonedasBackend_HostAddress = http://localhost:5056
+
+GET {{BilleteraCriptomonedasBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
