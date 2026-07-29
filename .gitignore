@@ -13,3 +13,8 @@ local.env
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+
+# Bases de Datos
+*.db
+*.db-shm
+*.db-walt
